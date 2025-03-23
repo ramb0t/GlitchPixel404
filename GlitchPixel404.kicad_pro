@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.153,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.4
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -231,12 +231,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.35,
+          "diameter": 0.45,
           "drill": 0.2
         },
         {
-          "diameter": 0.5,
-          "drill": 0.25
+          "diameter": 0.45,
+          "drill": 0.3
         },
         {
           "diameter": 0.7,
@@ -502,7 +502,7 @@
         "diff_pair_width": 0.2,
         "line_style": 0,
         "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
+        "microvia_drill": 0.15,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
@@ -514,20 +514,28 @@
       },
       {
         "bus_width": 12,
+        "clearance": 0.2,
         "line_style": 0,
         "name": "pwr",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgb(221, 133, 0)",
+        "track_width": 0.3,
+        "via_diameter": 0.7,
+        "via_drill": 0.4,
         "wire_width": 6
       },
       {
         "bus_width": 12,
+        "clearance": 0.2,
         "line_style": 0,
         "name": "pwrhi",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgb(255, 0, 0)",
+        "track_width": 0.35,
+        "via_diameter": 0.7,
+        "via_drill": 0.4,
         "wire_width": 6
       }
     ],
