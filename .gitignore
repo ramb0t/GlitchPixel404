@@ -10,6 +10,7 @@
 *.kicad_sch-bak
 *-backups
 *-bak*
+*.backup.*
 *~
 _autosave-*
 *.tmp
@@ -20,6 +21,7 @@ _autosave-*
 fp-info-cache
 sym-lib-table
 *.rescue
+*.cache
 
 # KiCad project files, user settings
 fp-lib-table-user
@@ -35,3 +37,12 @@ sym-lib-table-user
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
+
+# Gerber Files (Generated Output)
+gerber/
+production/backups
+*.gbr
+*.drl
+*.tap
+*.pos
+*.lyr
