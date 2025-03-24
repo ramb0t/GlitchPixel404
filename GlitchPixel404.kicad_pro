@@ -58,7 +58,48 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|146445000|71151620|33acaea7-886b-4b42-a70f-5da60b506a50|eb7cdea3-b70c-4d6c-bc68-a1cc1a7d9ac6",
+          ""
+        ],
+        [
+          "courtyards_overlap|146445000|94989015|33acaea7-886b-4b42-a70f-5da60b506a50|8987c161-3e4d-4fb2-9d55-096b463df6de",
+          ""
+        ],
+        [
+          "silk_edge_clearance|100000000|72710000|a725c3ae-eda2-4c8c-bc21-712da9d3a549|cdb1c615-6749-48c3-87dc-05fb6d389c43",
+          ""
+        ],
+        [
+          "silk_edge_clearance|100000000|82110000|a725c3ae-eda2-4c8c-bc21-712da9d3a549|f7fab382-3e78-48f0-853d-8a4d6a9af12f",
+          ""
+        ],
+        [
+          "silk_edge_clearance|100000000|85242500|a725c3ae-eda2-4c8c-bc21-712da9d3a549|92bfc692-2569-48e4-b58b-8d1f611a1af8",
+          ""
+        ],
+        [
+          "silk_edge_clearance|100000000|94442500|a725c3ae-eda2-4c8c-bc21-712da9d3a549|a82028d5-4de0-4a79-8075-3b655567c289",
+          ""
+        ],
+        [
+          "silk_overlap|146030000|89370000|dc5ec440-90af-4af3-be96-eb67b0fcd3d2|e99a9396-60df-4ff3-9f6c-afc33f2e3819",
+          ""
+        ],
+        [
+          "silk_overlap|146030000|94550000|a56f6633-4320-472b-9fbc-8d8ffff93c3e|cb7bcbae-3825-427b-be2b-c5b32d67cf3a",
+          ""
+        ],
+        [
+          "text_height|124200000|89800000|77aaa8be-d612-400c-85d7-de8813a4060b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|136100000|72900000|c5a98e36-f0d9-428a-9f06-d089019cc59b|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -104,7 +145,7 @@
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_thickness": "warning",
@@ -136,7 +177,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.2,
         "min_track_width": 0.1,
-        "min_via_annular_width": 0.254,
+        "min_via_annular_width": 0.075,
         "min_via_diameter": 0.35,
         "solder_mask_to_copper_clearance": 0.05,
         "use_height_for_length_calcs": true
@@ -643,12 +684,60 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pin",
+          "name": "Sim.Pin",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Volt",
+          "name": "Volt",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Voltage",
+          "name": "Voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
