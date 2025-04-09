@@ -1,0 +1,23 @@
+Info: Output directory 'C:\Dev\GitHub\GlitchPixel404\drawings' created.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404-User_Drawings.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404-Edge_Cuts.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404-User_Drawings.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404-Edge_Cuts.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Plotted to 'C:\Dev\GitHub\GlitchPixel404\drawings\GlitchPixel404.pdf'.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.

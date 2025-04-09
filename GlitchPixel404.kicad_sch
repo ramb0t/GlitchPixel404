@@ -15012,7 +15012,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_C_Receptacle_USB2.0_16P"
+		(property "Value" "TYPE-C-31-M-12"
 			(at 27.94 49.53 0)
 			(effects
 				(font
@@ -18133,7 +18133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9beee686-3ca9-4307-9ef9-4385eac3ff91")
-		(property "Reference" "U2"
+		(property "Reference" "Ue"
 			(at 200.2633 46.99 0)
 			(effects
 				(font
@@ -18349,7 +18349,7 @@
 		(instances
 			(project ""
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
-					(reference "U2")
+					(reference "Ue")
 					(unit 1)
 				)
 			)

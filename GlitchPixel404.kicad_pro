@@ -619,12 +619,12 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "drawings",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3D/GlitchPixel404.stl",
       "svg": "",
-      "vrml": ""
+      "vrml": "3D/GlitchPixel404.wrl"
     },
     "page_layout_descr_file": ""
   },
