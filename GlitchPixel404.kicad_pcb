@@ -4493,15 +4493,15 @@
 			(uuid "b61c7af6-4b08-4e13-a4c4-894518c8ed5e")
 		)
 		(embedded_fonts no)
-		(model "${EASYEDA2KICAD}/3dmodels/CONN-TH_9P-P2.54_MX128-2.54-09P-GN01-CU-Y-A.wrl"
+		(model "${KICAD6_USER_3DMODEL_DIR}/CONN-TH_DB125-2.54-9P-GN.wrl"
 			(offset
-				(xyz 0 -4.42 0)
+				(xyz -10.15 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz -0 -0 -180)
 			)
 		)
 	)
@@ -24978,6 +24978,44 @@
 	(dimension
 		(type orthogonal)
 		(layer "Dwgs.User")
+		(uuid "45a68314-bdd3-4e9a-bdfa-44a34fed50ce")
+		(pts
+			(xy 102.6 97.3) (xy 102.6 100)
+		)
+		(height -3.8)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "2.7"
+			(at 97.65 98.65 90)
+			(layer "Dwgs.User")
+			(uuid "45a68314-bdd3-4e9a-bdfa-44a34fed50ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
 		(uuid "51589c10-4dd4-4ac2-8561-91640aa41478")
 		(pts
 			(xy 147.4 94.8) (xy 147.4 71.4)
@@ -25195,6 +25233,44 @@
 			(at 154.95 98.7 90)
 			(layer "Dwgs.User")
 			(uuid "89de5b93-a2c4-4227-b43a-c6e02a29d903")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "Dwgs.User")
+		(uuid "9f941fbc-a2e5-4880-86c4-4a6392488a6e")
+		(pts
+			(xy 147.3 68.7) (xy 150 68.7)
+		)
+		(height -5.1)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "2.7"
+			(at 148.65 62.45 0)
+			(layer "Dwgs.User")
+			(uuid "9f941fbc-a2e5-4880-86c4-4a6392488a6e")
 			(effects
 				(font
 					(size 1 1)
