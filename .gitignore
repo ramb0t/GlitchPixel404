@@ -8,6 +8,7 @@
 *.bck-
 *.kicad_pcb-bak
 *.kicad_sch-bak
+*.lck
 *-backups
 *-bak*
 *.backup.*
