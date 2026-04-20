@@ -9281,6 +9281,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 44.45) (xy 49.53 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "624fe4e8-2723-46f5-9669-d36541091f40")
+	)
+	(wire
+		(pts
 			(xy 100.33 119.38) (xy 92.71 119.38)
 		)
 		(stroke
@@ -11909,7 +11919,7 @@
 			(uuid "d14556b3-3449-404f-97df-b86292fee2f1")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "C1")
 					(unit 1)
@@ -12066,7 +12076,7 @@
 			(uuid "7e2048e1-8edd-4572-8ed6-a8364ed1eba1")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "U3")
 					(unit 1)
@@ -12376,7 +12386,7 @@
 			(uuid "2ee95717-c772-4312-9657-3454bf26a6ea")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "MK1")
 					(unit 1)
@@ -12569,7 +12579,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint_Small")
-		(at 49.53 44.45 0)
+		(at 50.8 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -12578,7 +12588,7 @@
 		(fields_autoplaced yes)
 		(uuid "0dcad4d5-0719-4e0f-9440-b892ec91f180")
 		(property "Reference" "TPr2"
-			(at 50.8 43.1799 0)
+			(at 52.07 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12587,7 +12597,7 @@
 			)
 		)
 		(property "Value" "Vbus"
-			(at 50.8 45.7199 0)
+			(at 52.07 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12596,7 +12606,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 54.61 44.45 0)
+			(at 55.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12605,7 +12615,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 44.45 0)
+			(at 55.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12614,7 +12624,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 49.53 44.45 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13354,7 +13364,7 @@
 			(uuid "644260b2-096d-4278-b846-d0d832a977b4")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "#PWR02")
 					(unit 1)
@@ -13898,7 +13908,7 @@
 			(uuid "e723315c-08ec-41dc-a4b4-e6df4eb5165e")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "D4")
 					(unit 1)
@@ -14073,7 +14083,7 @@
 			(uuid "c9ec54f5-232c-496c-8ffe-ddd07f2ccd8c")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "R5")
 					(unit 1)
@@ -14621,7 +14631,7 @@
 			(uuid "45b3012b-4adf-4a85-8a60-3a1715281172")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "U4")
 					(unit 1)
@@ -14778,7 +14788,7 @@
 			(uuid "3ad26dc9-544e-4dff-9a5c-7430d820a812")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "C13")
 					(unit 1)
@@ -14909,7 +14919,7 @@
 			(uuid "7087e788-cd0b-46fe-b7ee-cf5f52813371")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "J2")
 					(unit 1)
@@ -15145,7 +15155,7 @@
 			(uuid "903e0c27-0635-4c1b-8105-efb2a973379f")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "D5")
 					(unit 1)
@@ -15592,7 +15602,7 @@
 			(uuid "56ee3a5a-3e09-4ac9-a402-b0879399be0f")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "TPr3")
 					(unit 1)
@@ -15744,7 +15754,7 @@
 			(uuid "e96c8299-afb3-496a-91b0-790aa4120ff5")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "Q2")
 					(unit 1)
@@ -15836,7 +15846,7 @@
 			(uuid "4ed346e3-73f7-456d-aead-e4450468c652")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "SW3")
 					(unit 1)
@@ -15934,7 +15944,7 @@
 			(uuid "a5481d0d-a455-4cfd-aaf3-1d3c2e234b80")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "U6")
 					(unit 1)
@@ -16119,7 +16129,7 @@
 			(uuid "7fff6433-2865-4e30-b5f5-d29fd643fee5")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "C5")
 					(unit 1)
@@ -16315,7 +16325,7 @@
 			(uuid "e5cf8046-7ce6-4c70-9396-177c3d2b9a16")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "#PWR027")
 					(unit 1)
@@ -16395,7 +16405,7 @@
 			(uuid "a7ab46d1-814a-4ae5-8700-a06b03a1ee14")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "U5")
 					(unit 1)
@@ -16475,9 +16485,9 @@
 		(at 26.67 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c285f4d-4d6c-431d-a5ea-4555df270332")
 		(property "Reference" "J1"
@@ -16533,7 +16543,7 @@
 			(uuid "0455f8db-9666-4a3f-b886-ab3c10735a04")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "J1")
 					(unit 1)
@@ -16633,7 +16643,7 @@
 			(uuid "b3020167-cc9e-4be8-8908-529d765015ad")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "J5")
 					(unit 1)
@@ -17081,7 +17091,7 @@
 			(uuid "b2b2b788-2b7d-49fd-9ea5-8c51974df954")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "L1")
 					(unit 1)
@@ -17148,7 +17158,7 @@
 			(uuid "50ca0ff8-0fe3-4646-a6b5-f60449fcb0f6")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "#PWR021")
 					(unit 1)
@@ -17221,7 +17231,7 @@
 			(uuid "b8ca5660-81e3-4180-b203-9239da4a08c4")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "J4")
 					(unit 1)
@@ -18075,7 +18085,7 @@
 			(uuid "b32e10db-9979-450a-a1cd-70eacd481d20")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "Ue1")
 					(unit 1)
@@ -18164,7 +18174,7 @@
 			(uuid "c63b1712-b92c-4127-8f6b-1e2dea6043f9")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "Q1")
 					(unit 1)
@@ -18382,7 +18392,7 @@
 			(uuid "7fdea444-845d-4c0e-990a-16b30cb881d5")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "D1")
 					(unit 1)
@@ -18886,7 +18896,7 @@
 			(uuid "cdb5dcf1-39dd-4fbc-8007-658f84a604ac")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "F1")
 					(unit 1)
@@ -19287,7 +19297,7 @@
 			(uuid "9c0f7f30-5394-475e-ae12-a9344e430704")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "U1")
 					(unit 1)
@@ -19822,7 +19832,7 @@
 			(uuid "3bd98226-48f5-47bb-980e-1c654527812e")
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "D2")
 					(unit 1)
@@ -21273,7 +21283,7 @@
 			)
 		)
 		(instances
-			(project ""
+			(project "GlitchPixel404"
 				(path "/3cfb80c9-371d-4841-9148-eae536d7cb55"
 					(reference "H1")
 					(unit 1)
